@@ -6,6 +6,8 @@ public class App {
 		String hola = "Hola";
 		System.out.println("Hola");
 		System.out.println("nodsadsa");
+		System.out.println("sda");
+		System.out.println("quesi pesia");
 	}
 
 }
